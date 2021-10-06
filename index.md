@@ -4,7 +4,7 @@ title: "Idelfonso B. R. Nogueira"
 ---
 <img align="left" src="idelfonso.png"> 
 
-<br /> <br /> <br /> <br /> <br /> Over the last years, my research activities have focused on proposing solutions based on artificial intelligence, advanced control, and real-time optimization to address problems in chemical processes. The main objective has been to integrate these solutions into concise cyberspace and interconnect them with the physical space formed by the chemical units. Therefore, providing practical solutions for the new industrial paradigms. To do so, the research under development is listed in five main branches as:
+<br /> <br /> <br /> <br />  Over the last years, my research activities have focused on proposing solutions based on artificial intelligence, advanced control, and real-time optimization to address problems in chemical processes. The main objective has been to integrate these solutions into concise cyberspace and interconnect them with the physical space formed by the chemical units. Therefore, providing practical solutions for the new industrial paradigms. To do so, the research under development is listed in five main branches as:
 <br /> 
 <br /> 
 <br /> 
