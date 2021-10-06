@@ -8,7 +8,6 @@ title: "Idelfonso B. R. Nogueira"
 <br /> 
 <br /> 
 <br /> 
-<br /> 
 
 - **Artificial Intelligence-based Modelling, Simulation, and Forecast** have the specific objective of developing AI solutions to solve processes issues, such as simulation, prediction, soft sensors, and fault detection, thus providing a reliable source of real-time information about the process.
 - **Advanced Process Control** covers the development of controllers for systems with periodic behavior, as is the case of cyclic adsorption processes, with guaranteed stability and stable integration concerning the Real-time Optimization layer. Furthermore, model uncertainty is included using robust formulations, and controllers’ interface with Artificial Intelligence solution is evaluated.
