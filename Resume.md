@@ -81,7 +81,7 @@ hand -->
 ## Association Member
    - <span>Current P2S - Processos e Produtos Sustentáveis (UFBA research group) External Reseacher </span><span>2020 -- Current</span>
    - <span>Current Current Artificial Intelligent oriented Cyclic Adsorption Separation and Reaction Processes Optimization and Control (AICySPrOC) Founding Member, Coordinator </span><span>2020 -- Current</span>
-   - <span>Group of Research in Uncertainty GI-UFBA Manager Member, Specialist Member </span><span>2013 -- 2016</span>
+   - <span>Group of Research in Uncertainty GI - UFBA Manager Member, Specialist Member </span><span>2013 -- 2016</span>
 
 ## Publications
 ![Publications](/publications.svg)
