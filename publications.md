@@ -3,12 +3,15 @@ layout: page
 title: "Publications"
 ---
 
+I have published 32 papers, ∼75% in Q1 Scimago rank and ∼16% in Q2 Scimago rank, having an h-index of 8. Among these publications, I am a correspondent author in 22, first author in 18, and lead author in 11 articles. Additionally, I have published two book chapters, one as lead author and the other as co-author. At the moment, I have five papers under review submitted in high-quality journals.
+
+![Publications](/publications.svg)
+
 ## Book Chapter
   - Santos Sánchez, Antonio; João Regufe, Maria; Mafalda Ribeiro, Ana; B.R.Nogueira, Idelfonso. "Sustainable Energy Management of Institutional Buildings through Load Prediction Models: Review and Case Study". In AI and Learning Systems - Industrial Applications and Future Directions. IntechOpen,2021. Published • 10.5772/intechopen.93425
   - Sánchez, Antonio Santos; Oliveira-Esquerre, Karla Patricia; dos Reis Nogueira,Idelfonso Bessa; de Jong, Pieter; Filho, Adelmo Aguiar. "Water Loss Management Through Smart Water Systems". In Modeling and Optimization in Science and Technologies, 233-266. Springer International Publishing, 2020.10.1007/978-3-030-37794-6_12
 
 ## Journal Article
-
   - Luis M. C. Oliveira; Rafael Dias; Carine M. Rebello; Márcio A. F. Martins; Alírio E. Rodrigues; Ana M. Ribeiro; Idelfonso B. R. Nogueira. "Artificial Intelligence and Cyber-Physical Systems: A Review and Perspectives for the Future in the Chemical Industry". AI (2021): https://doi.org/10.3390/ai2030027.
 
   - Carine M. Rebello; Márcio A. F. Martins; José M. Loureiro; Alírio E. Rodrigues; Ana M. Ribeiro; Idelfonso B. R. Nogueira. "From an Optimal Point to an Optimal Region: A Novel Methodology for Optimization of Multimodal Constrained Problems and a Novel Constrained Sliding Particle Swarm Optimization Strategy". Mathematics 9 15 (2021): 1808-1808. https://doi.org/10.3390/math9151808.
