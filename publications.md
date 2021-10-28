@@ -6,34 +6,31 @@ title: "Publications"
 ## Book Chapter
   - Santos Sánchez, Antonio; João Regufe, Maria; Mafalda Ribeiro, Ana; B.R.Nogueira, Idelfonso. "Sustainable Energy Management of Institutional Buildings through Load Prediction Models: Review and Case Study". In AI and Learning Systems - Industrial Applications and Future Directions. IntechOpen,2021. Published • 10.5772/intechopen.93425
   - Sánchez, Antonio Santos; Oliveira-Esquerre, Karla Patricia; dos Reis Nogueira,Idelfonso Bessa; de Jong, Pieter; Filho, Adelmo Aguiar. "Water Loss Management Through Smart Water Systems". In Modeling and Optimization in Science and Technologies, 233-266. Springer International Publishing, 2020.10.1007/978-3-030-37794-6_12
- 
-## Conference Paper
-  - Márcia Silva; Ana M. Ribeiro; Cláudia Silva; Guler Narin; Nogueira, Idelfonso; U-Hwang Lee; Joaquim Faria; et al. "Water vapour capture on MIL-125(Ti)_NH2 by (P)TSA process". Paper presented in 2019 AIChE Annual Meeting, 2019
-  - Márcia Silva; Ana M. Ribeiro; Nogueira, Idelfonso; Cláudia Silva; U-Hwang Lee; Joaquim Faria; José M. Loureiro; et al. "Potential of MIL-160(Al) for water generation". Paper presented in 19th International Zeolite Conference, 2019.
-  - Anderson N. Prudente; Daniel Diniz; Karen V. Pontes; Ana M. Ribeiro; Nogueira, Idelfonso. "Parameter estimation of a liquid-liquid equilibrium for the quaternary system n-propanol, propanoic acid, propyl propionate and water through the exploration and exploitation technique.". Paper presented in CMN2019 - Congress on Numerical Methods in Engineering, 2019.
-  - João Gabriel Vasconcelos Goes Mendes; Karen V. Pontes; Nogueira, Idelfonso. "Influence of the discretization method on the SMB model". Paper presented in CMN 2019 - Congress on Numerical Methods in Engineering, 2019.
-  - Vinicius Viena Santana; Márcio A.F. Martins; Ana Mafalda Ribeiro; José M.Loureiro; Nogueira, Idelfonso. "Dynamic response to process disturbances – Analysis of TMBR model in transient regime". Paper presented in I Brazilian Congress on Process Systems Engineering, Rio de Janeiro, 2019.
-  - Nogueira, Idelfonso; Ribeiro, A.M.; Rodrigues, A.E.; Loureiro, J.M.. "Advanced control of a SMB unit". Paper presented in XXI COBEQ - Brazilian Congress Chemical Engineering, 2016.
-  - Sánchez, A.S.; Nogueira, Idelfonso; Kalid, R.A.; Torres, E. A.. "Load forecast models using artificial neural networks: application in a university campus". Paper presented in X Brazilian Congress of Energetic Planning, 2016.
-  - Nogueira, Idelfonso; Fontes, R. M.; Embiruçu, M.; Loureiro, J.M.; Pontes, K.V.."Neural MPC for Quality Control of an Industrial Polymerization Reactor". Paper presented in Doctoral Congress in Engineering, 2015.
-  - Quito, C.; Nogueira, I.B.R.; Pontes, K.. "Modeling and optimization of a distillation column using advanced optimization software (ROMeo)". 2014.
-  - Nogueira, Idelfonso; Pontes, K.V.. "Estimability analysis of a phenomenological model of the ethylene polymerization process in solution". Paper presented in XX COBEQ - Brazilian Congress Chemical Engineering, 2014.
-  - Bernades, I.; Nogueira, Idelfonso; Pontes, K.V.. "Estimation and evaluation of the confidence regions of parameters of a phenomenological model for the ethylene copolymerization". Paper presented in XX COBEQ - Brazilian Congress Chemical Engineering, 2014.
-  - Nogueira, Idelfonso; Quito, C.; Pontes, K.V.. "Artificial Neural Networks Structure Selection: The benefits of Cross Validation Method". Paper presented in International Conference on Engineering Optimization, 2014.
-  - Sánchez, A.S.; Fontes, R. M.; Nogueira, Idelfonso. "Characterization of the water demand for non-potable purposes of a large university building, and its correlation with local rainfall data". Paper presented in 9º Simpósio Brasileiro de Captação e Manejo de Água de Chuva, 2014.
- 
-## Conference Poster
-  - João Gabriel Vasconcelos Goes Mendes; Karen Valverde Pontes; José Miguel Loureiro; Ana Mafalda Ribeiro; Nogueira, Idelfonso. "Influence of the discretization method on the SMB model". Paper presented in CMN 2019 - Congress on Numerical Methods in Engineering, 2019
-  - Nogueira, Idelfonso; Ribeiro, A.M.; Rodrigues, A.E.; Loureiro, J.M.. "A model predictive control applied to a SMB unit". Paper presented in XXI Congresso Brasileiro de Engenharia Química (COBEQ), 2016.
-  - Sánchez, A.S.; Nogueira, Idelfonso; Kalid, R.A.; Torres, E. A.. "Load forecasting models using neural networks on a university campus.". Paper presented in X CBPE - 10º Congresso Brasileiro de Planejamento Energético, 2016
-  - Nogueira, Idelfonso; Fontes, R. M.; Embiruçu, M.; Loureiro, J.M.; Martins, M.A.F.;Pontes, K.V.. "Neural MPC for Quality Control of an Industrial Polymerization Reactor". Paper presented in 1st Doctoral Congress in Engineering, 2015.
-  - Nogueira, Idelfonso; Pontes, K.V.. "Estimability analysis of a phenomenological model of the ethylene copolymerization process in solution". Paper presented in XX Congresso Brasileiro de Engenharia Química, 2014.
-  - Bernades, I.; Nogueira, Idelfonso; Pontes, K.V.. "Estimation and evaluation of confidence regions of the parameters of a phenomenological model for the copolymerization of ethylene in solution". Paper presented in XX Congresso Brasileiro de Engenharia Química, 2014.
-  - Nogueira, Idelfonso; Quito, C.; Pontes, K.V.. "Artificial Neural Networks Structure Selection: The benefits of Cross Validation Method". Paper presented in International Conference on Engineering Optimization, 2014.
-  - Quito, C.; Pontes, K.V.; Nogueira, Idelfonso. "Modeling and Optimization of a Distillation Column using Advanced Optimization Software (ROMeo®)". Paper presented in International Conference on Engineering Optimization, 2014.
-  - Sánchez, A.S.; Fontes, R. M.; Nogueira, Idelfonso. "Characterization of water demand for non-potable purposes of a university building, and its correlation with local pluviometric data". Paper presented in 9º Simpósio Brasileiro deCaptação e Manejo de Água de Chuva, 2014.
 
 ## Journal Article
+
+  - Luis M. C. Oliveira; Rafael Dias; Carine M. Rebello; Márcio A. F. Martins; Alírio E. Rodrigues; Ana M. Ribeiro; Idelfonso B. R. Nogueira. "Artificial Intelligence and Cyber-Physical Systems: A Review and Perspectives for the Future in the Chemical Industry". AI (2021): https://doi.org/10.3390/ai2030027.
+
+  - Carine M. Rebello; Márcio A. F. Martins; José M. Loureiro; Alírio E. Rodrigues; Ana M. Ribeiro; Idelfonso B. R. Nogueira. "From an Optimal Point to an Optimal Region: A Novel Methodology for Optimization of Multimodal Constrained Problems and a Novel Constrained Sliding Particle Swarm Optimization Strategy". Mathematics 9 15 (2021): 1808-1808. https://doi.org/10.3390/math9151808.
+  
+  - A. F. Martins, Márcio; Rodrigues, Alírio E.; Loureiro, José M.; Ribeiro, Ana M.; B. R. Nogueira, Idelfonso. "Artificial Intelligence-oriented Economic Non-linear Model Predictive Control Applied to a Pressure Swing Adsorption Unit: syngas purification as a case study". Separation and Purification Technology (2021): 119333. http://dx.doi.org/10.1016/j.seppur.2021.119333.
+
+  - Rodrigo V. A. Santos; Anderson N. Prudente; Ana M. Ribeiro; Alírio E. Rodrigues; José M. Loureiro; Márcio A. F. Martins; Karen V. Pontes; Idelfonso B. R. Nogueira. "Global Approach for Simulated Moving Bed Model Identification: Design of Experiments, Uncertainty Evaluation, and Optimization Strategy Assessment". Industrial & Engineering Chemistry Research (2021): https://doi.org/10.1021/acs.iecr.1c01276.
+
+  - Alírio E. Rodrigues; Idelfonso Nogueira; Rui P. V. Faria. "Perfume and Flavor Engineering: A Chemical Engineering Perspective". Molecules 26 11 (2021): 3095-3095. https://doi.org/10.3390/molecules26113095.
+
+  - Santana, Vinícius V.; Martins, Márcio A.F.; Loureiro, José M.; Ribeiro, Ana M.; Rodrigues, Alírio E.; Nogueira, Idelfonso B.R.. "Optimal fragrances formulation using a deep learning neural network architecture: a novel systematic approach.". Computers & Chemical Engineering (2021): 107344. http://dx.doi.org/10.1016/j.compchemeng.2021.107344.
+
+  - Vinicius V. Santana; Márcio A. F. Martins; Alírio E. Rodrigues; José M. Loureiro; Ana M. Ribeiro; Idelfonso B. R. Nogueira. "Abnormal Operation Tracking through Big-Data-Based Gram–Schmidt Orthogonalization: Production of n-Propyl Propionate in a Simulated Moving-Bed Reactor: A Case Study". Industrial & Engineering Chemistry Research (2021): https://doi.org/10.1021/acs.iecr.1c00214.
+
+  - Nogueira, Idelfonso. "Artificial Intelligence and Cyber-Physical Systems : A Short Review and Perspectives for the Future". COJ Robotics & Artificial Intelligence (2021):
+Open Access - Published
+  
+  - Silva, M. P.; Ribeiro, A. M.; Silva, C. G.; Nogueira, I. B. R.; Cho, Kyung-Ho; Lee, U.-Hwang; Faria, J. L.; et al. "MIL-160(Al) MOF’s potential in adsorptive water harvesting". Adsorption (2021): http://dx.doi.org/10.1007/s10450-020-00286-5.
+
+  - Matos, Joana; Faria, Rui P.V.; Loureiro, José M.; Ribeiro, Ana M.; Nogueira, Idelfonso B.R.. "Design and Optimization for Simulated Moving Bed: Varicol Approach". IFAC-PapersOnLine 54 3 (2021): 542-547. http://dx.doi.org/10.1016/j.ifacol.2021.08.298.
+  
+  - Matos, Joana; Faria, Rui P.V.; Loureiro, José M.; Ribeiro, Ana M.; Nogueira, Idelfonso B.R.. "Optimal Design of SMB Units: A Novel Strategy Based on Particles Swarm Optimization". IFAC-PapersOnLine 54 3 (2021): 548-553. http://dx.doi.org/10.1016/j.ifacol.2021.08.299.
 
   - Oliveira, Paulo H.M.; Martins, Márcio A.F.; Rodrigues, Alírio E.; Loureiro, José M.;Ribeiro, Ana M.; Nogueira, Idelfonso B.R.. "A Robust Model Predictive Controller applied to a Pressure Swing Adsorption Process: An Analysis Based on a LinearModel Mismatch". IFAC-PapersOnLine 54 3 (2021): 219-224. http://dx.doi.org/10.1016/j.ifacol.2021.08.245.10.1016/j.ifacol.2021.08.24513
 
@@ -74,6 +71,34 @@ title: "Publications"
   - Idelfonso B.R. Nogueira; Ana M. Ribeiro; Alírio E. Rodrigues; José M. Loureiro."Dynamics of a True Moving Bed separation process: Effect of operating variables on performance indicators using orthogonalization method".Computers & Chemical Engineering 86 (2016): 5-17. http://dx.doi.org/10.1016/j.compchemeng.2015.12.009.10.1016/j.compchemeng.2015.12.00931
 
   - Sánchez, A.S.; Nogueira, I.B.R.; Kalid, R.A.. "Uses of the reject brine from inlanddesalination for fish farming, Spirulina cultivation, and irrigation of forageshrub and crops". Desalination 364 (2015): 96-107. http://www.scopus.com/inward/record.url?eid=2-s2.0-84925455750&partnerID=MN8TOARS.10.1016/j.desal.2015.01.034
+
+
+## Conference Paper
+  - Márcia Silva; Ana M. Ribeiro; Cláudia Silva; Guler Narin; Nogueira, Idelfonso; U-Hwang Lee; Joaquim Faria; et al. "Water vapour capture on MIL-125(Ti)_NH2 by (P)TSA process". Paper presented in 2019 AIChE Annual Meeting, 2019
+  - Márcia Silva; Ana M. Ribeiro; Nogueira, Idelfonso; Cláudia Silva; U-Hwang Lee; Joaquim Faria; José M. Loureiro; et al. "Potential of MIL-160(Al) for water generation". Paper presented in 19th International Zeolite Conference, 2019.
+  - Anderson N. Prudente; Daniel Diniz; Karen V. Pontes; Ana M. Ribeiro; Nogueira, Idelfonso. "Parameter estimation of a liquid-liquid equilibrium for the quaternary system n-propanol, propanoic acid, propyl propionate and water through the exploration and exploitation technique.". Paper presented in CMN2019 - Congress on Numerical Methods in Engineering, 2019.
+  - João Gabriel Vasconcelos Goes Mendes; Karen V. Pontes; Nogueira, Idelfonso. "Influence of the discretization method on the SMB model". Paper presented in CMN 2019 - Congress on Numerical Methods in Engineering, 2019.
+  - Vinicius Viena Santana; Márcio A.F. Martins; Ana Mafalda Ribeiro; José M.Loureiro; Nogueira, Idelfonso. "Dynamic response to process disturbances – Analysis of TMBR model in transient regime". Paper presented in I Brazilian Congress on Process Systems Engineering, Rio de Janeiro, 2019.
+  - Nogueira, Idelfonso; Ribeiro, A.M.; Rodrigues, A.E.; Loureiro, J.M.. "Advanced control of a SMB unit". Paper presented in XXI COBEQ - Brazilian Congress Chemical Engineering, 2016.
+  - Sánchez, A.S.; Nogueira, Idelfonso; Kalid, R.A.; Torres, E. A.. "Load forecast models using artificial neural networks: application in a university campus". Paper presented in X Brazilian Congress of Energetic Planning, 2016.
+  - Nogueira, Idelfonso; Fontes, R. M.; Embiruçu, M.; Loureiro, J.M.; Pontes, K.V.."Neural MPC for Quality Control of an Industrial Polymerization Reactor". Paper presented in Doctoral Congress in Engineering, 2015.
+  - Quito, C.; Nogueira, I.B.R.; Pontes, K.. "Modeling and optimization of a distillation column using advanced optimization software (ROMeo)". 2014.
+  - Nogueira, Idelfonso; Pontes, K.V.. "Estimability analysis of a phenomenological model of the ethylene polymerization process in solution". Paper presented in XX COBEQ - Brazilian Congress Chemical Engineering, 2014.
+  - Bernades, I.; Nogueira, Idelfonso; Pontes, K.V.. "Estimation and evaluation of the confidence regions of parameters of a phenomenological model for the ethylene copolymerization". Paper presented in XX COBEQ - Brazilian Congress Chemical Engineering, 2014.
+  - Nogueira, Idelfonso; Quito, C.; Pontes, K.V.. "Artificial Neural Networks Structure Selection: The benefits of Cross Validation Method". Paper presented in International Conference on Engineering Optimization, 2014.
+  - Sánchez, A.S.; Fontes, R. M.; Nogueira, Idelfonso. "Characterization of the water demand for non-potable purposes of a large university building, and its correlation with local rainfall data". Paper presented in 9º Simpósio Brasileiro de Captação e Manejo de Água de Chuva, 2014.
+ 
+## Conference Poster
+  - João Gabriel Vasconcelos Goes Mendes; Karen Valverde Pontes; José Miguel Loureiro; Ana Mafalda Ribeiro; Nogueira, Idelfonso. "Influence of the discretization method on the SMB model". Paper presented in CMN 2019 - Congress on Numerical Methods in Engineering, 2019
+  - Nogueira, Idelfonso; Ribeiro, A.M.; Rodrigues, A.E.; Loureiro, J.M.. "A model predictive control applied to a SMB unit". Paper presented in XXI Congresso Brasileiro de Engenharia Química (COBEQ), 2016.
+  - Sánchez, A.S.; Nogueira, Idelfonso; Kalid, R.A.; Torres, E. A.. "Load forecasting models using neural networks on a university campus.". Paper presented in X CBPE - 10º Congresso Brasileiro de Planejamento Energético, 2016
+  - Nogueira, Idelfonso; Fontes, R. M.; Embiruçu, M.; Loureiro, J.M.; Martins, M.A.F.;Pontes, K.V.. "Neural MPC for Quality Control of an Industrial Polymerization Reactor". Paper presented in 1st Doctoral Congress in Engineering, 2015.
+  - Nogueira, Idelfonso; Pontes, K.V.. "Estimability analysis of a phenomenological model of the ethylene copolymerization process in solution". Paper presented in XX Congresso Brasileiro de Engenharia Química, 2014.
+  - Bernades, I.; Nogueira, Idelfonso; Pontes, K.V.. "Estimation and evaluation of confidence regions of the parameters of a phenomenological model for the copolymerization of ethylene in solution". Paper presented in XX Congresso Brasileiro de Engenharia Química, 2014.
+  - Nogueira, Idelfonso; Quito, C.; Pontes, K.V.. "Artificial Neural Networks Structure Selection: The benefits of Cross Validation Method". Paper presented in International Conference on Engineering Optimization, 2014.
+  - Quito, C.; Pontes, K.V.; Nogueira, Idelfonso. "Modeling and Optimization of a Distillation Column using Advanced Optimization Software (ROMeo®)". Paper presented in International Conference on Engineering Optimization, 2014.
+  - Sánchez, A.S.; Fontes, R. M.; Nogueira, Idelfonso. "Characterization of water demand for non-potable purposes of a university building, and its correlation with local pluviometric data". Paper presented in 9º Simpósio Brasileiro deCaptação e Manejo de Água de Chuva, 2014.
+
 
 ## Thesis/Dissertation
   - Nogueira, Idelfonso. "Optimization and control of TMB, SMB and SMBR units".PhD, Universidade do Porto, Faculdade de Engenharia, 2018. http://hdl.handle.net/10216/112770.2.
