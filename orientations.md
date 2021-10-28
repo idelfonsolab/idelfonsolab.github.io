@@ -5,9 +5,9 @@ title: "Supervision"
 
 ## PhD 
 
-  - <span> Supervisor of Luis Oliveira, A disruptive Cyber-Physical System for fragrances formulation. Chemical and Biological Engineering PhD, University of Porto, Portugal. </span><span>2021/01 -- Current</span>
+  - <span> Supervisor of Luis Oliveira, A disruptive Cyber-Physical System based on Artificial Intelligence for fragrances formulation. Chemical and Biological Engineering PhD, University of Porto, Portugal. </span><span>2021/01 -- Current</span>
 
-  - <span> Supervisor of Vinicius Viena Santana, Cyber-physical oriented chemical process for the separation of biopharmaceutical compounds from natural extracts. Chemical and Biological Engineering PhD, University of Porto, Portugal. </span><span> 2021/09 -- Current</span>
+  - <span> Supervisor of Vinicius Viena Santana, Cyber-physical oriented chemical process based on Artificial Intelligence for the separation of biopharmaceutical compounds from natural extracts. Chemical and Biological Engineering PhD, University of Porto, Portugal. </span><span> 2021/09 -- Current</span>
 
   - <span> Co-supervisor of Teófilo P.G Mendes, Explicit Solution of Predictive Controllers Based on Model Computed by Artificial Intelligence Algorithms. PhD in Mechatronics, Universidade Federal da Bahia, Brazil. </span><span> 2020/01 -- Current</span>
 
@@ -26,7 +26,11 @@ title: "Supervision"
    - <span> Co-supervisor of Joana de Matos Silva, Particles Swarm Optimization for Chiral Separation by True Moving Bed Chromatography. Master in Chemical Engineering, University of Porto, Portugal. </span><span> 2016 -- 2017 </span>
 
 ## Undegraduate
- 
+
+  - <span> Supervisor of Eduarda Augusto, A data scraping tool for digital documents applied to collect information on perfume descriptors. Degree in Chemical Engineering, University of Porto, Portugal. </span><span> 2021 -- Current</span>
+   
+  - <span> Supervisor of Bruno Rodrigues, Web scraping tool to collect information about perfume evaluation by customers. Degree in Chemical Engineering, University of Porto, Portugal. </span><span> 2020 -- Current</span>
+  
   - <span> Co-supervisor of Anderson Nascimento Prudente, Parameters Estimation of Equilibrium Models for n-Propyl Propionate Reaction System. Degree in Chemical Engineering, Universidade Federal da Bahia, Brazil. </span><span> 2018/01 -- 2020/01</span>
 
   - <span> Supervisor of Vinicius Viena Santana, Dynamics of True Moving Bed Reactors. Degree in Chemical Engineering, Universidade Federal da Bahia, Brazil. </span><span> 2018/01 -- 2020/01 </span>
