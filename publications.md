@@ -3,7 +3,7 @@ layout: page
 title: "Publications"
 ---
 
-I have published 32 papers, ∼75% in Q1 Scimago rank and ∼16% in Q2 Scimago rank, having an h-index of 8. Among these publications, I am a correspondent author in 22, first author in 18, and lead author in 11 articles. Additionally, I have published two book chapters, one as lead author and the other as co-author. At the moment, I have five papers under review submitted in high-quality journals.
+I have published 41 papers, ∼75% in Q1 Scimago rank and ∼16% in Q2 Scimago rank, having an h-index of 9. Among these publications, I am a correspondent author in 22, first author in 18, and lead author in 19 articles. Additionally, I have published two book chapters, one as lead author and the other as co-author. At the moment, I have five papers under review submitted in high-quality journals.
 
 ![Publications](/publications.svg)
 
@@ -12,6 +12,26 @@ I have published 32 papers, ∼75% in Q1 Scimago rank and ∼16% in Q2 Scimago r
   - Sánchez, Antonio Santos; Oliveira-Esquerre, Karla Patricia; dos Reis Nogueira,Idelfonso Bessa; de Jong, Pieter; Filho, Adelmo Aguiar. "Water Loss Management Through Smart Water Systems". In Modeling and Optimization in Science and Technologies, 233-266. Springer International Publishing, 2020.10.1007/978-3-030-37794-6_12
 
 ## Journal Article
+
+ - Carine M. Rebello; Paulo H.M. Marrocos; Ebert Almeida Vinícius V. Santana; Alírio E. Rodrigues; Ana M. Ribeiro; Idelfonso B. R. Nogueira.
+Machine Learning-Based Dynamic Modeling for Process Engineering Applications: A Guideline for Simulation and Prediction from Perceptron to Deep Learning. Processes:  https://doi.org/10.3390/pr10020250.
+
+ - Paulo H.M. Marrocos; Igor, G.I. Iwakiri; Martins, Márcio A.F.; Rodrigues, Alírio E.; Loureiro, José M.; Ribeiro, Ana M.; Idelfonso B. R. Nogueira.
+A long short-term memory based Quasi-Virtual Analyzer for dynamic real-time soft sensing of a Simulated Moving Bed unit. Applied Soft Computing: https://doi.org/10.1016/j.asoc.2021.108318.
+  
+ - Carine M. Rebello; Márcio A. F. Martins; José M. Loureiro; Alírio E. Rodrigues; Ana M. Ribeiro; Idelfonso B. R. Nogueira.
+A novel standpoint of Pressure Swing Adsorption processes multi-objective optimization: An approach based on feasible operation region mapping. Chemical Engineering Research and Design:  https://doi.org/10.1016/j.cherd.2021.12.047.
+  
+ - Rodrigo V. A. Santos; Karen V. Pontes; Idelfonso B. R. Nogueira.
+Enantiomers and Their Resolution. Encyclopedia:  https://doi.org/10.3390/encyclopedia2010011.
+
+
+  - Carine M. Rebello; Márcio A. F. Martins; Daniel D. Santana; José M. Loureiro; Alírio E. Rodrigues; Ana M. Ribeiro; Idelfonso B. R. Nogueira.
+From a Pareto Front to Pareto Regions: A Novel Standpoint for Multiobjective Optimization. Mathematics: https://doi.org/10.3390/math9243152.
+
+ - Maria João Regufe; Vinícius V. Santana; Alexandre F.P. Ferreira; José M. Loureiro; Ana M. Ribeiro; Idelfonso B. R. Nogueira.
+A Hybrid Modeling Framework for Membrane Separation Processes: Application to Lithium-Ion Recovery from Batteries. Processes: https://doi.org/10.3390/pr9111939.
+
   - Luis M. C. Oliveira; Rafael Dias; Carine M. Rebello; Márcio A. F. Martins; Alírio E. Rodrigues; Ana M. Ribeiro; Idelfonso B. R. Nogueira. "Artificial Intelligence and Cyber-Physical Systems: A Review and Perspectives for the Future in the Chemical Industry". AI (2021): https://doi.org/10.3390/ai2030027.
 
   - Carine M. Rebello; Márcio A. F. Martins; José M. Loureiro; Alírio E. Rodrigues; Ana M. Ribeiro; Idelfonso B. R. Nogueira. "From an Optimal Point to an Optimal Region: A Novel Methodology for Optimization of Multimodal Constrained Problems and a Novel Constrained Sliding Particle Swarm Optimization Strategy". Mathematics 9 15 (2021): 1808-1808. https://doi.org/10.3390/math9151808.
