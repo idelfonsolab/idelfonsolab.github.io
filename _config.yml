@@ -21,6 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "research.md", title: "Research", icon: book-open}
   - {file: "people.md", title: "People", icon: users}
   - {file: "publications.md", title: "Publications", icon: atom}
+  - {file: "collaborations.md", title: "Collaborations", icon: handshake-simple}
   - {file: "orientations.md", title: "Supervision", icon: university}
   - {file: "teaching.md", title: "Teaching", icon: chalkboard-teacher}
 
