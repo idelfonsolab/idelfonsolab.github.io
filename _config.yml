@@ -21,11 +21,11 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "research.md", title: "Research", icon: book-open}
   - {file: "people.md", title: "People", icon: users}
   - {file: "publications.md", title: "Publications", icon: atom}
-  - {url: "google.com", title: "Software", icon: laptop-code}
   - {file: "orientations.md", title: "Supervision", icon: university}
   - {file: "teaching.md", title: "Teaching", icon: chalkboard-teacher}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: Software, icon: laptop-code, url: "google.com"}
   - {title: Mail, icon: envelope, url: "mailto:idelfonso.nogueira@gmail.com"}
   
 comments:
