@@ -22,13 +22,13 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "people.md", title: "People", icon: users}
   - {file: "publications.md", title: "Publications", icon: atom}
   - {file: "collaborations.md", title: "Collaborations", icon: handshake}
-  - {file: "project.md", title: "Projects", icon: diagram-project}
+  - {file: "project.md", title: "Projects", icon: "https://fontawesome.com/icons/diagram-project?f=classic&s=solid"}
   - {file: "orientations.md", title: "Supervision", icon: university}
   - {file: "teaching.md", title: "Teaching", icon: chalkboard-teacher}
   - {file: "memories.md", title: "Memories", icon: image}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Software, icon: laptop-code, url: "google.com"}
+  - {title: Software, icon: laptop-code, url: "https://www.google.com/"}
   - {title: Mail, icon: envelope, url: "mailto:idelfonso.b.d.r.nogueira@ntnu.no"}
   
 comments:
