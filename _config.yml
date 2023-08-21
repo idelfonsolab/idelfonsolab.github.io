@@ -18,8 +18,8 @@ minimal: true             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "Home", icon: home}
   - {file: "Resume.md", title: "About us", icon: file}
-  - {file: "Research.md", title: "Research", icon: book-open}
-  - {file: "People.md", title: "People", icon: users}
+  - {file: "research.md", title: "Research", icon: book-open}
+  - {file: "people.md", title: "People", icon: users}
   - {file: "publications.md", title: "Publications", icon: atom}
   - {url: "google.com", title: "Software", icon: laptop-code}
   - {file: "orientations.md", title: "Supervision", icon: university}
