@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "Idelfonso B. R. Nogueira"
+title: "DENDE"
+subtitle: "Idelfonso's Lab"
 ---
 <img align="left" src="idelfonso.png"> 
 
