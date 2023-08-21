@@ -29,7 +29,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "memories.md", title: "Memories", icon: image}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Software, icon: laptop-code, url: "https://www.google.com/"}
+  - {title: Software, icon: laptop-code, url: "https://www.ntnu.edu/employees/idelfonso.b.d.r.nogueira"}
   - {title: Mail, icon: envelope, url: "mailto:idelfonso.b.d.r.nogueira@ntnu.no"}
   
 comments:
