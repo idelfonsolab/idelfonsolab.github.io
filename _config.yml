@@ -24,7 +24,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "people.md", title: "People", icon: users}
   - {file: "publications.md", title: "Publications", icon: atom}
   - {file: "collaborations.md", title: "Collaborations", icon: handshake}
-  - {file: "project.md", title: "Projects", icon: "['fas', 'diagram-project']"}
+  - {file: "project.md", title: "Projects", icon: f542}
   - {file: "open.md", title: "Open Positions", icon: user-tie}
   - {file: "memories.md", title: "Memories", icon: image}
 
