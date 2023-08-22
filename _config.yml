@@ -23,13 +23,13 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "teaching.md", title: "Teaching", icon: chalkboard-teacher}
   - {file: "people.md", title: "People", icon: users}
   - {file: "publications.md", title: "Publications", icon: atom}
+  - {file: "software.md", title: "Software", icon: laptop-code}
   - {file: "collaborations.md", title: "Collaborations", icon: handshake}
   - {file: "project.md", title: "Projects", icon: link}
   - {file: "open.md", title: "Open Positions", icon: user-tie}
   - {file: "memories.md", title: "Memories", icon: image}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Software, icon: laptop-code, url: "https://www.ntnu.edu/employees/idelfonso.b.d.r.nogueira"}
   - {title: Mail, icon: envelope, url: "mailto:idelfonso.b.d.r.nogueira@ntnu.no"}
   
 comments:
