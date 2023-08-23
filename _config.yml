@@ -1,6 +1,6 @@
 title: "DENDE"
 author: "Idelfonso Nogueira"
-description: "Idelfonso's Lab – Chemical Engineering, Process Systems Engineering and AI Researcher"
+description: "Idelfonso's Lab – Chemical Engineering, Process Systems Engineering and AI Research"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "orientations.md", title: "Supervision", icon: university}
   - {file: "teaching.md", title: "Teaching", icon: chalkboard-teacher}
   - {file: "people.md", title: "People", icon: users}
-  - {file: "publications.md", title: "Publications", icon: atom}
+  - {file: "pub2.md", title: "Publications", icon: atom}
   - {file: "software.md", title: "Software", icon: laptop-code}
   - {file: "collaborations.md", title: "Collaborations", icon: handshake}
   - {file: "project.md", title: "Projects", icon: link}
