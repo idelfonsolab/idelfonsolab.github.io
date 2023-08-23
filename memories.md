@@ -5,7 +5,7 @@ title: "Memories"
 
 ## NTNU Julia Seminar - August 2023
 
-<left><img src="julia1.jpeg" ></left>
+<img align="left" src="idelfonso.png">
 
 ## NTNU Process Control Congress - August 2023
 
