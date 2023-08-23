@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "DENDE"
+title: "Home"
 ---
 <img align="left" src="idelfonso.png"> 
 
