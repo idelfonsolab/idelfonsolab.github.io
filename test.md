@@ -2,7 +2,7 @@
 layout: page
 title: "Home"
 ---
-<img align="left" src="https://github.com/xXxbrunexXx/xXxbrunexXx.github.io/blob/master/idelfonso.png"> 
+![Idelfonso](https://github.com/xXxbrunexXx/xXxbrunexXx.github.io/blob/master/idelfonso.png)
 
 <br /> <br /> Since the beginning of my career, I have followed the tendency of what was to be called Industry 4.0. At that time, I realized that the traditional approach to chemical engineering would need a new standpoint for that emerging industrial revolution. Hence, I searched for what could be developed to provide practical solutions to meet those new industrial paradigms. I found that Artificial Intelligence (AI) would be essential. Therefore, I started to focus my research on transporting the new AI concept to chemical engineering. Over the last few years, my research efforts have been dedicated to developing novel and innovative AI-based solutions in chemical processes, especially their integration with process optimization, control, monitoring, and process automation. More recently, I added a new level in my research scope: the concise integration of these elements within cognitive Cyber-physical systems. Overall, I list my research in five main branches:
 <br /> 
