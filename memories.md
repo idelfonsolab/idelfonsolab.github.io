@@ -5,6 +5,9 @@ title: "Memories"
 
 ## NTNU Julia Seminar - August 2023
 
+<left><img src="julia1.jpeg" width="300"></left>
+<right><img src="julia2.jpeg" width="330"></right>
+
 <div style="display: flex; flex-direction: column;">
   <div style="display: flex; justify-content: center;">
     <img src="julia1.jpeg" width="300">
