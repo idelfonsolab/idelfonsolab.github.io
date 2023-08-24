@@ -3,7 +3,7 @@ layout: page
 title: "Publications"
 ---
 
-<center><img src="/plot.png" alt="Publications" width="500"><center>
+<center><img src="/plot.png" alt="Publications" width="500"></center>
 <br /> <br /> I have published over 60 manuscripts, ∼70% in Q1 Scimago rank and ∼25% in Q2 Scimago rank. 2 book chapters 490 citations, h-index: 12 (source GoogleScholar).
 <br /> 
 <br /> 
