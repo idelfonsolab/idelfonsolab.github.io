@@ -5,7 +5,8 @@ title: "Publications"
 
 <center><img src="/plot.png" alt="Publications" width="500"><center>
 <br /> <br />I have published over 60 manuscripts, ∼70% in Q1 Scimago rank and ∼25% in Q2 Scimago rank. 2 book chapters— 490 citations, h-index: 12 (source GoogleScholar).
-
+<br />
+ 
 ## Book Chapter
  - Santos Sánchez, A., João Regufe, M., Mafalda Ribeiro, A., & Nogueira, I. B. (2021). Sustainable Energy Management of Institutional Buildings through Load Prediction Models: Review and Case Study. In A. Kumar & P. A. Cherian (Eds.), AI and Learning Systems - Industrial Applications and Future Directions. IntechOpen. https://doi.org/10.5772/intechopen.93425
  - Sánchez, A. S., Oliveira-Esquerre, K. P., dos Reis Nogueira, I. B., de Jong, P., & Filho, A. A. (2020). Water Loss Management Through Smart Water Systems. In Modeling and Optimization in Science and Technologies (pp. 233-266). Springer International Publishing. https://doi.org/10.1007/978-3-030-37794-6_12
