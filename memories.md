@@ -2,6 +2,7 @@
 layout: page
 title: "Memories"
 ---
+
 <h2>NTNU Julia Seminar - August 2023</h2>
 <div style="display: flex; flex-direction: column">
   <div style="display: flex; justify-content: center">
