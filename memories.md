@@ -36,6 +36,3 @@ title: "Memories"
     <img src="/japan4.png" alt="jap4" style="width: 400px">
   </div>
 </div>
-
-</body>
-</html>
