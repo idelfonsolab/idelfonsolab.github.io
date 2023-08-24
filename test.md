@@ -14,4 +14,3 @@ title: "Home"
 - **Processes Automation and Digitalization** regard developing solutions for automation of chemical units to promote the integration between the other branches of my research and the physical processes. It focuses on consolidating concise cyber-physical systems and exploring their potentialities through their cloning into digital twins. This branch serves as a backbone to support the integration of my research with its application domain.
 - **Experimental Developments** covers the practical issues related to chemical processes to develop simplified uncertainty-based experimental procedures. It aims at the determination of a trustworthy, reliable, and precise model. It considers the uncertainty evaluation a critical tool that allows the model identification and validation with a few experiments while leading to high precision predictions. This provides a robust basis for the developments of the other branches.
 
-<center><img src="home.png"></center>
