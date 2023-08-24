@@ -1,15 +1,12 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Memories</title>
-</head>
-<body>
-
+---
+layout: page
+title: "Memories"
+---
 <h2>NTNU Julia Seminar - August 2023</h2>
 <div style="display: flex; flex-direction: column">
   <div style="display: flex; justify-content: center">
-    <img src="/julia1.jpeg" alt="Julia 1" style="width: 300px">
-    <img src="/julia2.jpeg" alt="Julia 2" style="width: 330px">
+    <img src="/julia1.jpeg" alt="Julia 1" style="width: 400px">
+    <img src="/julia2.jpeg" alt="Julia 2" style="width: 440px">
   </div>
   <div style="text-align: center">
     <img src="/julia3.jpeg" alt="Julia 3" style="width: 400px">
