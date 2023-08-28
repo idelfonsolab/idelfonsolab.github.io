@@ -6,9 +6,9 @@ title: "Idelfonso Bessa dos Reis Nogueira"
 
 <!-- The unordered list immediately after the h1 will be formatted on a single
 line. It is intended to be used for contact details -->
-- <idelfonso@fe.up.pt>
-- (+351) 911-991-699
-- Porto, Portugal
+- <idelfonso.b.d.r.nogueira@ntnu.no>
+- (+47) 73-59-23-99
+- Trondheim, Norway
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
@@ -84,5 +84,5 @@ hand -->
    - <span>Group of Research in Uncertainty GI - UFBA Manager Member, Specialist Member </span><span>2013 -- 2016</span>
 
 ## Publications
-![Publications](/publications.svg)
+![Publications](/plot.png)
 
