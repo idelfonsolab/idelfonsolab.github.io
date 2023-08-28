@@ -4,6 +4,8 @@ title: "Supervision"
 ---
 
 ## PhD 
+  
+  - <span> New design of solid-state batteries by artificial intelligence and molecular simulation. Chemical Engineering PhD, NTNU, Norway.  </span><span> 2023/01 -- Current</span>
 
   - <span> Supervisor of Luis Oliveira, A disruptive Cyber-Physical System based on Artificial Intelligence for fragrances formulation. Chemical and Biological Engineering PhD, University of Porto, Portugal. </span><span>2021/01 -- Current</span>
 
