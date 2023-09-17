@@ -25,15 +25,3 @@ title: "Memories"
     <img src="/IMG_2478.jpg" alt="Image 4" style="width: 400px">
   </div>
 </div>
-
-<h2>IFAC World Congress in Yokohama, Japan - July 2023</h2>
-<div style="display: flex; flex-direction: column">
-  <div style="display: flex; justify-content: center">
-    <img src="/japan.jpeg" alt="jap1" style="width: 300px">
-    <img src="/japan2.jpeg" alt="jap2" style="width: 300px">
-  </div>
-  <div style="display: flex; justify-content: center">
-    <img src="/japan3.jpeg" alt="jap3" style="width: 300px">
-    <img src="/japan4.png" alt="jap4" style="width: 400px">
-  </div>
-</div>
