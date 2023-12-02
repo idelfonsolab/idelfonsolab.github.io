@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Idelfonso Bessa dos Reis Nogueira"
+title: "CV"
 ---
 <!-- The (first) h1 will be used as the <title> of the HTML page -->
 
