@@ -15,27 +15,22 @@ is intended to be used for a short summary. -->
 
 ## Education
 
-### <span>University of Porto, Doctorate in Chemical and Biological Engineering </span> <span>2015 -- 2018</span>
+ - University of Porto, Doctorate in Chemical and Biological Engineering, 2015 - 2018
+   - Optimization and control of TMB, SMB and SMBR units.
 
-  - Optimization and control of TMB, SMB and SMBR units.
+ - Federal University of Bahia, Master in Industrial Engineering, 2013 - 2016
+   - Parameter Estimation, Inference and Quality Control of an Ethylene Copolymerization Process.
 
-### <span>Federal University of Bahia, Master in Industrial Engineering </span> <span>2013 -- 2016</span>
-
-  - Parameter Estimation, Inference and Quality Control of an Ethylene Copolymerization Process.
-
-### <span>University of Porto, Master in Chemical Engineering </span> <span>2006 -- 2012</span>
-
-  - Major in Processes and Pruducts.
+ - University of Porto, Master in Chemical Engineering, 2006 - 2012
+   - Major in Processes and Products.
 
 ## Experience
 
-<!-- You have to wrap the "left" and "right" half of these headings in spans by
-hand -->
-### <span>Contracted Researcher, LSRE - University of Porto</span> <span>Nov 2018 -- Current</span>
+ - Contracted Researcher, LSRE - University of Porto, Nov 2018 - 2022
 
-### <span>Postdoctoral (Research), LSRE - University of Porto</span> <span>Set 2018 -- Nov 2018</span>
+ - Postdoctoral (Research), LSRE - University of Porto, Set 2018 - Nov 2018
 
-### <span>Visiting Researcher, Tampereen teknillinen yliopisto Hydrauliikan - Finland</span> <span>Set 2016 -- Out 2017</span>
+ - Visiting Researcher, Tampereen teknillinen yliopisto Hydrauliikan - Finland, Set 2016 - Out 2017
 
 ## Research Interests
 
