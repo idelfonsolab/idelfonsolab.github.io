@@ -3,9 +3,8 @@ layout: page
 title: "Supervision"
 ---
 
----
-
 ## PhD 
+---
   
   - <span> New design of solid-state batteries by artificial intelligence and molecular simulation. Chemical Engineering PhD, NTNU, Norway.  </span><span> 2023/01 -- Current</span>
 
