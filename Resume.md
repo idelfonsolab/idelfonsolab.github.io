@@ -13,6 +13,7 @@ line. It is intended to be used for contact details -->
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
 
+---
 ## Education
 
  - University of Porto, Doctorate in Chemical and Biological Engineering, 2015 - 2018
@@ -24,6 +25,7 @@ is intended to be used for a short summary. -->
  - University of Porto, Master in Chemical Engineering, 2006 - 2012
    - Major in Processes and Products.
 
+---
 ## Experience
 
  - Contracted Researcher, LSRE - University of Porto, Nov 2018 - 2022
@@ -32,6 +34,7 @@ is intended to be used for a short summary. -->
 
  - Visiting Researcher, Tampereen teknillinen yliopisto Hydrauliikan - Finland, Set 2016 - Out 2017
 
+---
 ## Research Interests
 
    - Artificial Intelligence application in Chemical Engineering;
@@ -40,6 +43,7 @@ is intended to be used for a short summary. -->
    - Cyber-physical systems;
    - Digital twinning.
 
+---
 ## Professional Services
 
 ### Conference scientific comittee
@@ -81,3 +85,4 @@ is intended to be used for a short summary. -->
 ## Publications
 ![Publications](/plot.png)
 
+---
