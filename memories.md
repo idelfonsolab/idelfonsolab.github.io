@@ -3,6 +3,13 @@ layout: page
 title: "Memories"
 ---
 
+<h2>FEUP Chemical Engineering Days - November 2023</h2>
+<div style="display: flex; flex-direction: column">
+  <div style="display: flex; justify-content: center">
+    <img src="/jornadas_banner.jpg" alt="Jornadas 1" style="width: 400px">
+    <img src="/jornadas_group.jpg" alt="Jornadas 2" style="width: 400px">
+</div>
+
 <h2>NTNU Julia Seminar - August 2023</h2>
 <div style="display: flex; flex-direction: column">
   <div style="display: flex; justify-content: center">
