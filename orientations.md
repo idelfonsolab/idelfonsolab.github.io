@@ -4,6 +4,7 @@ title: "Supervision"
 ---
 
 ---
+
 ## PhD 
   
   - <span> New design of solid-state batteries by artificial intelligence and molecular simulation. Chemical Engineering PhD, NTNU, Norway.  </span><span> 2023/01 -- Current</span>
@@ -19,7 +20,6 @@ title: "Supervision"
   - <span> Co-supervisor of Carine de Menezes Rebello, Real-time multi-objective optimization for pressure swing adsorption units . PhD in Industrial Engineering, Universidade Federal da Bahia, Brazil. </span><span> 2018/01 -- Current</span>
 
 ---
- 
 ## MSc
 
   - <span> Co-supervisor of Anderson A. Prudente, A complete model for the synthesis of n-Propyl Propionate in a Simulated Moving Bed Reactor. Master in Industrial Engineering (PEI), Universidade Federal da Bahia, Brazil. </span><span>2020/02 -- Current</span>
@@ -30,6 +30,7 @@ title: "Supervision"
 
    - <span> Co-supervisor of Joana de Matos Silva, Particles Swarm Optimization for Chiral Separation by True Moving Bed Chromatography. Master in Chemical Engineering, University of Porto, Portugal. </span><span> 2016 -- 2017 </span>
 
+---
 ## Undegraduate
 
   - <span> Supervisor of Eduarda Augusto, A data scraping tool for digital documents applied to collect information on perfume descriptors. Degree in Chemical Engineering, University of Porto, Portugal. </span><span> 2021 -- Current</span>
@@ -49,4 +50,5 @@ title: "Supervision"
    - <span> Co-supervisor of Danielle Mendes de Almeida Sampaio, Parameter estimation of a polymerization process using industrial data. Chemical Engineering (Scientific Initiation), Universidade Federal da Bahia, Brazil.</span><span> 2013 -- 2014 </span>
     
    - <span> Co-supervisor of Ícaro Bernades, Estimation and evaluation of the confidence regions of parameters of a phenomenological model for the ethylene copolymerization. Chemical Engineering (Scientific Initiation), Universidade Federal da Bahia, Brazil.</span><span> 2013 -- 2014 </span>
-    
+
+---
