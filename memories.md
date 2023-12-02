@@ -3,6 +3,9 @@ layout: default
 title: "Memories"
 ---
 
+<h2>NTNU AI DAY - December 2023</h2>
+[Speech on how AI will change the domain of Chemical Engineering](https://www.ntnu.no/ie/arrangement)
+
 <h2>FEUP Chemical Engineering Days - November 2023</h2>
 <div style="display: flex; flex-direction: column">
   <div style="display: flex; justify-content: center">
