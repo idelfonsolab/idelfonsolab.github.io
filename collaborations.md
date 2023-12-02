@@ -3,19 +3,25 @@ layout: page
 title: "Collaborations"
 ---
 
+---
 ## Europe
 
   - Alírio Rodrigues (LSRE-LCM, University of Porto)
   - Ana Mafalda Ribeiro (LSRE-LCM, University of Porto)
-  - Alexandre Ferreira (LSRE-LCM, Universit of Porto)
+  - Alexandre Ferreira (LSRE-LCM, University of Porto)
   - Sandris Muris (Muris Startups)
   - Kay Markus Muller (Furtwangen University)
+  - Mumin Enis Leblebici (KU Leuven)
+  - Artur M. Schweidtmann (TU Delft)
+  - Jose Luis Guzman (University of Almería)
 
+---
 ## North America
 
   - Chris Rackauckas (Julia Lab, MIT)
   - Fred Vides (University of Honduras)
 
+---
 ## South America
 
   - Karen Pontes (UFBA)
@@ -27,3 +33,5 @@ title: "Collaborations"
   - Amaro Barreto (UFRJ)
   - Argimiro Secchi (COPPE – UFRJ)
   - Antonio Sanches (Universidade Federal de Ouro Preto)
+
+---
