@@ -17,6 +17,7 @@ title: "Supervision"
   - <span> Supervisor of Rodrigo Vergner de Sá, Parameters Estimation in Cyclic Processes. PhD in Industrial Engineering, Universidade Federal da Bahia, Brazil. </span><span> 2018/11 -- Current</span>
 
   - <span> Co-supervisor of Carine de Menezes Rebello, Real-time multi-objective optimization for pressure swing adsorption units . PhD in Industrial Engineering, Universidade Federal da Bahia, Brazil. </span><span> 2018/01 -- Current</span>
+
 ---
  
 ## MSc
