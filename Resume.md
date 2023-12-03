@@ -28,11 +28,13 @@ is intended to be used for a short summary. -->
 ---
 ## Experience
 
- - Contracted Researcher, LSRE - University of Porto, Nov 2018 - 2022
+ - Associate Professor, NTNU, Norway, October 2022 - Current 
 
- - Postdoctoral (Research), LSRE - University of Porto, Set 2018 - Nov 2018
+ - Contracted Researcher, LSRE - University of Porto, Portugal, Nov 2018 - September 2022
 
- - Visiting Researcher, Tampereen teknillinen yliopisto Hydrauliikan - Finland, Set 2016 - Out 2017
+ - Postdoctoral Researcher, LSRE - University of Porto, Portugal, Set 2018 - Nov 2018
+
+ - Visiting Researcher, Tampereen teknillinen yliopisto Hydrauliikan, Finland, Set 2016 - Out 2017
 
 ---
 ## Research Interests
