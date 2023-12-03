@@ -2,7 +2,7 @@
 layout: page
 title: "People"
 ---
-
+---
 ## Active Members
 
   - Idelfonso Bessa dos Reis Nogueira (Associate Professor)
@@ -19,7 +19,10 @@ title: "People"
   - Anderson Nascimento (M.Sc.)
   - Beatriz Cambão da Silva (PhD)
 
+---
 ## Past Members
 
   - Rodrigo Vergne (PhD)
   - Guilherme da Costa Amaral (M.Sc.)
+
+---
