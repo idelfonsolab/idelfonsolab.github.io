@@ -4,11 +4,13 @@ title: "Publications"
 ---
 <br /> I have published over 60 manuscripts, ∼70% in Q1 Scimago rank and ∼25% in Q2 Scimago rank. 2 book chapters 490 citations, h-index: 12 (source GoogleScholar).
 <center><img src="/plot.png" alt="Publications" width="500"></center>
- 
+
+--- 
 ## Book Chapter
  - Santos Sánchez, A., João Regufe, M., Mafalda Ribeiro, A., & Nogueira, I. B. (2021). Sustainable Energy Management of Institutional Buildings through Load Prediction Models: Review and Case Study. In A. Kumar & P. A. Cherian (Eds.), AI and Learning Systems - Industrial Applications and Future Directions. IntechOpen. https://doi.org/10.5772/intechopen.93425
  - Sánchez, A. S., Oliveira-Esquerre, K. P., dos Reis Nogueira, I. B., de Jong, P., & Filho, A. A. (2020). Water Loss Management Through Smart Water Systems. In Modeling and Optimization in Science and Technologies (pp. 233-266). Springer International Publishing. https://doi.org/10.1007/978-3-030-37794-6_12
 
+---
 ## Articles
 -	Yun, J. S., Cho, K. H., Lim, M. K., Yoon, J. W., Ferreira, A., Ribeiro, A. M., Carmo, P., Nogueira, I. B. R., Park, Y.-K., Park, J., Song, I.-H., Kim, K., & Lee, U.-H. (2023). Process modeling and optimization of vacuum pressure swing adsorption for ethane and ethylene separation using Cu(Qc)2 MOF. Separation and Purification Technology, 326, 124711. https://doi.org/10.1016/j.seppur.2023.124711
 -	Silva, M. P., Ribeiro, A. M., Silva, C. G., Nogueira, I. B. R., Cho, K.-H., Lee, U.-H., Faria, J. L., Loureiro, J. L., Chang, J.-S., Rodrigues, A. E., & Ferreira, A. (2021). MIL-160(Al) MOF’s potential in adsorptive water harvesting. Adsorption, 27(2), 213–226. https://doi.org/10.1007/s10450-020-00286-5
@@ -66,7 +68,7 @@ title: "Publications"
 -	Costa, E. A., Rebello, C. de M., Fontana, M., Schnitman, L., & Nogueira, I. B. dos R. (2022). A Robust Learning Methodology for Uncertainty-Aware Scientific Machine Learning Models. Mathematics, 11(1), 74. https://doi.org/10.3390/math11010074
 -	B. R. Nogueira, I., V. Santana, V., Ribeiro, A. M., & Rodrigues, A. E. (2022). Using scientific machine learning to develop universal differential equation for multicomponent adsorption separation systems. The Canadian Journal of Chemical Engineering, 100(9), 2279–2290. https://doi.org/10.1002/cjce.24495
 
-
+---
 ## Conference Papers
   - Márcia Silva; Ana M. Ribeiro; Cláudia Silva; Guler Narin; Nogueira, Idelfonso; U-Hwang Lee; Joaquim Faria; et al. "Water vapour capture on MIL-125(Ti)_NH2 by (P)TSA process". Paper presented in 2019 AIChE Annual Meeting, 2019
   - Márcia Silva; Ana M. Ribeiro; Nogueira, Idelfonso; Cláudia Silva; U-Hwang Lee; Joaquim Faria; José M. Loureiro; et al. "Potential of MIL-160(Al) for water generation". Paper presented in 19th International Zeolite Conference, 2019.
@@ -79,18 +81,24 @@ title: "Publications"
  - Nogueira, Idelfonso; Quito, C.; Pontes, K.V.. "Artificial Neural Networks Structure Selection: The benefits of Cross Validation Method". Paper presented in International Conference on Engineering Optimization, 2014.
  - Sánchez, A.S.; Fontes, R. M.; Nogueira, Idelfonso. "Characterization of the water demand for non-potable purposes of a large university building, and its correlation with local rainfall data". Paper presented in 9º Simpósio Brasileiro de Captação e Manejo de Água de Chuva, 2014.
 
+---
 ## Thesis/Dissertation
   - Nogueira, Idelfonso. "Optimization and control of TMB, SMB and SMBR units".PhD, Universidade do Porto, Faculdade de Engenharia, 2018. http://hdl.handle.net/10216/112770.2.
   - Nogueira, Idelfonso. "Parameter Estimation, Inference and Quality Control of an Ethylene Copolymerization Process". Master, Universidade Federal da Bahia, Escola Politécnica, 2016. http://repositorio.ufba.br/ri/handle/ri/24330.
   - Nogueira, Idelfonso. "Estudo da produção de embalagens plásticas e desenvolvimento de testes de qualidade". Master, Universidade do Porto, Faculdade de Engenharia, 2012. http://hdl.handle.net/10216/68206.
 
+---
 ## Oral Presentation
   - Parameter estimation of a liquid-liquid equilibrium for the quaternary systemn-propanol, propanoic acid, propylpropionate and water though the exploration and exploitation technique (CMN 2019 - Congress on Numerical Methods in Engineering)
   - Modelling of Complex Process Through Artificial Neural Networks (SEMPPG - Universidade Federal da Bahia Escola Politécnica (Brazil))
- 
+
+--- 
 ## Preprints
+ - Rodrigues, B.D.C.L.; Santana, V.V.; Queiroz, L.D.P.; Rebello, C.M.; Nogueira, I.B.R. Scents of AI: Harnessing Graph Neural Networks to Craft Fragrances Based on Consumer Feedback. https://doi.org/10.20944/preprints202310.0247.v1
  - Gama, M. S., Lima, F., Viena, V., Nogueira, I. B. dos R., Tavares, F. W., & Barreto, A. G. (2023). A Parallel Hybrid Model for Integrating Protein Adsorption Models with Deep Neural Networks. https://doi.org/10.21203/rs.3.rs-3200918/v1
  - Viena, V., Rebello, C. M., Queiroz, L. P., Ribeiro, A. M., Shardt, N., & Nogueira, I. B. dos R. (2023). PUFFIN: A Path-Unifying Feed-Forward Interfaced Network for Vapor Pressure Prediction.
  - Viena, V., Costa, E. A., Rebello, C. M., Ribeiro, A. M., Rackauckas, C., & Nogueira, I. B. dos R. (2023). Efficient hybrid modeling and sorption model discovery for non-linear advection-diffusion-sorption systems: A systematic scientific machine learning approach.
  - Queiroz, L. P., Rebello, C. M., Costa, E. A., Viena, V., Rodrigues, A. E., Ribeiro, A. M., & Nogueira, I. B. dos R. (2022). A Robust Scientific Machine Learning for Optimization: A Novel Robustness Theorem. https://doi.org/10.48550/arXiv.2209.06642
  - Santos, R. V. A., Rebello, C. M., Prudente, A. N., Viena, V., Ribeiro, A. M., Rodrigues, A. E., Loureiro, J. M., Pontes, K. V., & Nogueira, I. B. dos R. (2022). A nested loop for simultaneous model topology screening, parameters estimation, and identification of the optimal number of experiments: Application to a Simulated Moving Bed unit. https://doi.org/10.48550/arXiv.2209.09133
+
+---
