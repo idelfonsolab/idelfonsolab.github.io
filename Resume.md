@@ -28,13 +28,21 @@ is intended to be used for a short summary. -->
 ---
 ## Experience
 
- - Associate Professor, NTNU, Norway, October 2022 - Current 
+ - Associate Professor, NTNU, Norway, October 2022 - Current
+ 
+ - Invited Assistant Professor, Department of Biological and Chemical Engineering, University of Minho, Portugal, 2021 - 2022
+ 
+ - External Professor, Polytechnic Institute/Department of Chemical Engineering, Federal University of Bahia, Brazil, 2021 - 2022
 
  - Contracted Researcher, LSRE - University of Porto, Portugal, Nov 2018 - September 2022
 
  - Postdoctoral Researcher, LSRE - University of Porto, Portugal, Set 2018 - Nov 2018
 
  - Visiting Researcher, Tampereen teknillinen yliopisto Hydrauliikan, Finland, Set 2016 - Out 2017
+ 
+ - Project Engineer, WG Projects LTDA, Brazil, 2013 – 2014	
+
+ - Chief of Production, IDEBA, Brazil, 2012 – 2012
 
 ---
 ## Research Interests
@@ -48,11 +56,17 @@ is intended to be used for a short summary. -->
 ---
 ## Professional Services
 
-### Conference scientific comittee
-   - <span>3rd International Conference on Machine Learning and Intelligent Systems (MLIS 2021) - China </span><span>2020/12 -- 2021/12</span>
-   - <span>2nd International Conference on Machine Learning and Intelligent Systems (MLIS2020) - Korea </span><span>2019 -- 2020</span>
-   - <span>3rd International Conference on Computer Science and Application Engineering - China </span><span>2019 -- 2019</span>
-   - <span>2019 International Conference on Machine Learning and Intelligent Systems National Dong Hwa University – Taiwan </span><span>2018 -- 2019</span>
+### Conference scientific committee
+ - Scientific Committee, 4th International Conference on Machine Learning and Intelligent Systems (MLIS 2022) 
+Seoul, Republic of Korea, 2021	
+ - Scientific Committee, 3rd International Conference on Machine Learning and Intelligent Systems (MLIS 2022) 
+Online, 2020
+ - Scientific Committee, 2nd International Conference on Machine Learning and Intelligent Systems (MLIS 2022) 
+China, 2019
+ - Scientific Committee, International Conference on Machine Learning and Intelligent Systems National Dong
+Hwa University – Taiwan, 2019
+ - Program Committee, 2nd Sensor Networks and Signal Processing (SNSP 2019), 
+Hualien, Taiwan, 2019
 
 ### Event Organization 
    - <span>Lecture Cycle - Writing Scientific Articles. Universidade Federal da Bahia Escola Politécnica, Brazil Seminar (Co-organisor) </span><span>2014/07 -- 2014/08</span>
@@ -81,8 +95,8 @@ is intended to be used for a short summary. -->
 
 ---
 ## Association Member
-   - <span>Current P2S - Processos e Produtos Sustentáveis (UFBA research group) External Reseacher </span><span>2020 -- Current</span>
-   - <span>Current Current Artificial Intelligent oriented Cyclic Adsorption Separation and Reaction Processes Optimization and Control (AICySPrOC) Founding Member, Coordinator </span><span>2020 -- Current</span>
+   - <span>P2S - Processos e Produtos Sustentáveis (UFBA research group) External Reseacher </span><span>2020 -- Current</span>
+   - <span>Artificial Intelligent oriented Cyclic Adsorption Separation and Reaction Processes Optimization and Control (AICySPrOC) Founding Member, Coordinator </span><span>2020 -- Current</span>
    - <span>Group of Research in Uncertainty GI - UFBA Manager Member, Specialist Member </span><span>2013 -- 2016</span>
 
 ---
