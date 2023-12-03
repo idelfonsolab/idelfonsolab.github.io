@@ -17,7 +17,7 @@ title: "Supervision"
 
   - <span> Co-supervisor of Teófilo P.G Mendes, Explicit Solution of Predictive Controllers Based on Model Computed by Artificial Intelligence Algorithms. PhD in Mechatronics, Universidade Federal da Bahia, Brazil. </span><span> 2020/01 -- Current</span>
 
-  - <span> Supervisor of Rodrigo Vergner de Sá, Parameters Estimation in Cyclic Processes. PhD in Industrial Engineering, Universidade Federal da Bahia, Brazil. </span><span> 2018/11 -- Current</span>
+  - <span> Supervisor of Rodrigo Vergner de Sá, Parameters Estimation in Cyclic Processes. PhD in Industrial Engineering, Universidade Federal da Bahia, Brazil. </span><span> 2018/11 -- 2023/05</span>
 
 ---
 ## MSc
@@ -32,11 +32,11 @@ title: "Supervision"
 
   - Supervisor of Tobias Solberg, Machine Learning and DFT simulations for developing new materials for Solid State Batteries. Master in Chemical Engineering, NTNU, Norway. 
 
-  - Supervisor of Bruno Rodrigues, Harnessing Graph Neural Networks to Craft Fragrances Based on Consumer Feedback and Validating the Creations Experimentally. Master in Chemical Engineering, NTNU, Norway.
+  - Supervisor of Bruno Rodrigues, Harnessing Graph Neural Networks to Craft Fragrances Based on Consumer Feedback and Validating the Creations Experimentally. Master in Chemical Engineering, University of Porto and NTNU, Portugal and Norway.
 
   - Supervisor of John Marius Strømsnes, Material Optimization for Energy Storage Devices in Off-shore Platforms using Molecular Dynamics and Machine Learning Methods. Master in Chemical Engineering, NTNU, Norway.
 
-  - Co-supervisor of Gustavo de Carvalho, Surrogate modelling of solid-state batteries. Master in Chemical Engineering, NTNU, Norway.
+  - Co-supervisor of Gustavo de Carvalho, Surrogate modelling of solid-state batteries. Master in Chemical Engineering, University of Porto and NTNU, Portugal and Norway.
   
   - Co-supervisor of Guilherme Amaral, Model topology identification and global parameters estimation for purification of BSA and myoglobin. Master in Chemical Engineering, University of Porto, Portugal.
   
