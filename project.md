@@ -5,6 +5,10 @@ title: "Projects"
  - **2024 - Current**: NTNU, A smart process for water harvesting from air and water distribution based on eco-friendly MOFs. Horizon funding. **PI from NTNU team, and WP leader**.
   
  - **2024 - Current**: Marie Skłodowska-Curie Actions Doctoral Networks, Smart Integration of Process Systems Engineering & Machine Learning for Improved Process Safety in Process Industries - Horizon Europe (HORIZON). **Partner**.
+ 
+ - **2023 - Current**: NTNU, Augmented Reality in Chemical Engineering Teaching: Enhancing Undergraduate Education with Interactive Learning Tools. Funding by Fakultet for Naturvitenskap. **PI**
+ 
+ - **2023 - Current**: NTNU, Augmented Reality in Teaching Heat Transfer and Fluid Flow: Enhancing Undergraduate Education with Interactive Learning Tools. Funding by Fakultet for Naturvitenskap. **Co-PI**
    
  - **2022 - Current**: SUBPRO Zero/NTNU, Bridging fundamentals and processes for optimal control and robust optimization: A case study in core annular flow oil transport and CO2 capture in offshore platforms. **Supervisor**.
    
