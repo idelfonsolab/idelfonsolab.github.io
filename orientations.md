@@ -61,7 +61,7 @@ title: "Supervision"
 ---
 ## Undegraduate
 
-  - Supervisor of Eduarda Augusto, A data scraping tool for digital documents applied to collect information on perfume descriptors. Degree in Chemical Engineering, University of Porto, Portugal.
+  - Supervisor of Eduarda Augusto, A data scraping tool for digital documents applied to collect information on perfume descriptors. Bachelor's Degree in Chemical Engineering, University of Porto, Portugal.
    
   - Supervisor of Bruno Rodrigues, Web scraping tool to collect information about perfume evaluation by customers. Bachelor's Degree in Chemical Engineering, University of Porto, Portugal.
   
