@@ -19,6 +19,12 @@ title: "Supervision"
 
   - <span> Supervisor of Rodrigo Vergner de Sá, Parameters Estimation in Cyclic Processes. PhD in Industrial Engineering, Universidade Federal da Bahia, Brazil. </span><span> 2018/11 -- 2023/05</span>
 
+  - Co-supervisor of Gustavo Luís Rodrigues Caldas, Study of the use of Reinforcement Learning Applied to Real-Time Optimization in the Energy and Oil & Gas Industry, Universidade Federal do Rio de Janeiro, Brazil. Undated -- Undated.
+
+  - Supervisor of Carine de Menezes Rebello, Bridging fundamentals to processes for optimal control and robust optimization: A case study in core annular flow to transport and CO2 capture in offshore platforms, NTNU, Norway. Undated -- Undated.
+
+  - Supervisor of Erbet Almeida Costa, Bridging control theories through artificial intelligence, NTNU, Norway. Undated -- Undated. 
+
 ---
 ## MSc
 
