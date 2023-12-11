@@ -5,6 +5,12 @@ title: "Supervision"
 
 ---
 ## PhD
+  - Supervisor of Carine de Menezes Rebello, Bridging fundamentals to processes for optimal control and robust optimization: A case study in core annular flow to transport and CO2 capture in offshore platforms, NTNU, Norway. 2023/07 -- Current.
+
+  - Supervisor of Erbet Almeida Costa, Bridging control theories through artificial intelligence, NTNU, Norway. 2023/02 -- Current.
+  
+  - Co-supervisor of Gustavo Luís Rodrigues Caldas, Study of the use of Reinforcement Learning Applied to Real-Time Optimization in the Energy and Oil & Gas Industry, Universidade Federal do Rio de Janeiro, Brazil. 2023 -- Current. 
+
   - Supervisor of Luana Pinho Queiroz, Flavor Engineering 5.0: a new approach for design and understanding flavors. PhD in Chemical Engineering and Biology, University of Porto, Portugal. 2023/09 -- Current. 
 
   - Co-supervisor of Beatriz Cambão da Silva, Adaptive Real-time Optimization of Cyclic Adsorption Processes with Dynamic Design for Autonomous Scenario-based Reconfiguration. PhD in Chemical Engineering and Biology, University of Porto, Portugal. 2023/09 -- Current.  
@@ -18,12 +24,6 @@ title: "Supervision"
   - <span> Co-supervisor of Teófilo P.G Mendes, Explicit Solution of Predictive Controllers Based on Model Computed by Artificial Intelligence Algorithms. PhD in Mechatronics, Universidade Federal da Bahia, Brazil. </span><span> 2020/01 -- Current</span>
 
   - <span> Supervisor of Rodrigo Vergner de Sá, Parameters Estimation in Cyclic Processes. PhD in Industrial Engineering, Universidade Federal da Bahia, Brazil. </span><span> 2018/11 -- 2023/05</span>
-
-  - Co-supervisor of Gustavo Luís Rodrigues Caldas, Study of the use of Reinforcement Learning Applied to Real-Time Optimization in the Energy and Oil & Gas Industry, Universidade Federal do Rio de Janeiro, Brazil. Undated -- Undated.
-
-  - Supervisor of Carine de Menezes Rebello, Bridging fundamentals to processes for optimal control and robust optimization: A case study in core annular flow to transport and CO2 capture in offshore platforms, NTNU, Norway. Undated -- Undated.
-
-  - Supervisor of Erbet Almeida Costa, Bridging control theories through artificial intelligence, NTNU, Norway. Undated -- Undated. 
 
 ---
 ## MSc
