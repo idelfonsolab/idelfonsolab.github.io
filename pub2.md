@@ -86,11 +86,6 @@ title: "Publications"
   - Nogueira, Idelfonso. "Parameter Estimation, Inference and Quality Control of an Ethylene Copolymerization Process". Master, Universidade Federal da Bahia, Escola Politécnica, 2016. http://repositorio.ufba.br/ri/handle/ri/24330.
   - Nogueira, Idelfonso. "Estudo da produção de embalagens plásticas e desenvolvimento de testes de qualidade". Master, Universidade do Porto, Faculdade de Engenharia, 2012. http://hdl.handle.net/10216/68206.
 
----
-## Oral Presentation
-  - Parameter estimation of a liquid-liquid equilibrium for the quaternary systemn-propanol, propanoic acid, propylpropionate and water though the exploration and exploitation technique (CMN 2019 - Congress on Numerical Methods in Engineering)
-  - Modelling of Complex Process Through Artificial Neural Networks (SEMPPG - Universidade Federal da Bahia Escola Politécnica (Brazil))
-
 --- 
 ## Preprints
  - Rodrigues, B.D.C.L.; Santana, V.V.; Queiroz, L.D.P.; Rebello, C.M.; Nogueira, I.B.R. Scents of AI: Harnessing Graph Neural Networks to Craft Fragrances Based on Consumer Feedback. https://doi.org/10.20944/preprints202310.0247.v1
