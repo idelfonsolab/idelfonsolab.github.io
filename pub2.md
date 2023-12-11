@@ -2,8 +2,7 @@
 layout: page
 title: "Publications"
 ---
-<br /> I have published over 60 manuscripts, ∼70% in Q1 Scimago rank and ∼25% in Q2 Scimago rank. 2 book chapters 490 citations, h-index: 12 (source GoogleScholar).
-<center><img src="/plot.png" alt="Publications" width="500"></center>
+<br /> I have published over 60 manuscripts, ∼70% in Q1 Scimago rank and ∼25% in Q2 Scimago rank. 2 book chapters. 613 citations, h-index: 13, i10-index: 20 (source GoogleScholar).
 
 --- 
 ## Book Chapter
