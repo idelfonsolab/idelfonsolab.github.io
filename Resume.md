@@ -57,13 +57,10 @@ is intended to be used for a short summary. -->
 ## Professional Services
 
 ### Conference scientific committee
- - Scientific Committee, 4th International Conference on Machine Learning and Intelligent Systems (MLIS 2022) 
-Seoul, Republic of Korea, 2021	
- - Scientific Committee, 3rd International Conference on Machine Learning and Intelligent Systems (MLIS 2022) 
-Online, 2020
- - Scientific Committee, 2nd International Conference on Machine Learning and Intelligent Systems (MLIS 2022) 
-China, 2019
- - Scientific Committee, International Conference on Machine Learning and Intelligent Systems National Dong
+ - Scientific Committee, 4th International Conference on Machine Learning and Intelligent Systems, Seoul, Republic of Korea, 2021	
+ - Scientific Committee, 3rd International Conference on Machine Learning and Intelligent Systems, Online, 2020
+ - Scientific Committee, 2nd International Conference on Machine Learning and Intelligent Systems, China, 2019
+ - Scientific Committee, International Conference on Machine Learning and Intelligent Systems National, Dong
 Hwa University – Taiwan, 2019
  - Program Committee, 2nd Sensor Networks and Signal Processing (SNSP 2019), 
 Hualien, Taiwan, 2019
@@ -72,35 +69,12 @@ Hualien, Taiwan, 2019
    - <span>Lecture Cycle - Writing Scientific Articles. Universidade Federal da Bahia Escola Politécnica, Brazil Seminar (Co-organisor) </span><span>2014/07 -- 2014/08</span>
    - <span>II Scientific Seminar of the Research Group in Uncertainties. Universidade Federal da Bahia Escola Politécnica, Brazil Seminar (Co-organisor) </span><span>2014 -- 2014</span>
    - <span> New Tools of the Engineering Applied to Solve Industrial Problems. Universidade Federal da Bahia Escola Politécnica, Brazil </span><span>2013/12 -- 2013/12 </span>
- 
-### Reviewer
-
-   - Brazilian Journal of Chemical Engineering, Springer
-   - Energy and AI, Elsevier
-   - Soft Computing, Springer
-   -  Mathematics, MDPI
-   -  AI, MDPI
-   -  Current Chemical Engineering and Science 
-   -  Computers & Chemical, Elsevier
-   -  Symmetry, MDPI
-   -  Chemosphere, Elsevier
-   -  Applied Sciences, MDPI
-   -  Current Energies, MDPI 
-   -  Processes, MDPI
-   -  Journal of Chromatography A, Elsevier
-   -  Hydrology: Current Research 
-   -  Journal of Marine Science: Research & Development 
- 
-![Reviews](/reviews.svg)
 
 ---
 ## Association Member
-   - <span>P2S - Processos e Produtos Sustentáveis (UFBA research group) External Reseacher </span><span>2020 -- Current</span>
-   - <span>Artificial Intelligent oriented Cyclic Adsorption Separation and Reaction Processes Optimization and Control (AICySPrOC) Founding Member, Coordinator </span><span>2020 -- Current</span>
-   - <span>Group of Research in Uncertainty GI - UFBA Manager Member, Specialist Member </span><span>2013 -- 2016</span>
-
----
-## Publications
-![Publications](/plot.png)
+   - IFAC - Technical Committee 6.1- Chemical Process Control, Member, 2023 -- Current.
+   - <span>P2S - Processos e Produtos Sustentáveis (UFBA research group), External Reseacher, </span><span>2020 -- Current</span>
+   - <span>Artificial Intelligent oriented Cyclic Adsorption Separation and Reaction Processes Optimization and Control (AICySPrOC) Founding Member, Coordinator, </span><span>2020 -- Current</span>
+   - <span>Group of Research in Uncertainty GI - UFBA Manager Member, Specialist Member, </span><span>2013 -- 2016</span>
 
 ---
