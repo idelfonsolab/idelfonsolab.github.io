@@ -16,12 +16,12 @@ title: "People"
   - Bruno de Carvalho Leite Rodrigues (M.Sc.)
   - Luana P. Queiroz (PhD)
   - Luis Miguel Cunha Oliveira (PhD)
-  - Anderson Nascimento (M.Sc.)
   - Beatriz Cambão da Silva (PhD)
 
 ---
 ## Past Members
 
+  - Anderson Nascimento (M.Sc.)
   - Rodrigo Vergne (PhD)
   - Guilherme da Costa Amaral (M.Sc.)
 
