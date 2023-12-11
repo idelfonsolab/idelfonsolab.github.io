@@ -25,7 +25,6 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "software.md", title: "Software", icon: laptop-code}
   - {file: "collaborations.md", title: "Collaborations", icon: handshake}
   - {file: "project.md", title: "Projects", icon: link}
-  - {file: "open.md", title: "Open Positions", icon: user-tie}
   - {file: "memories.md", title: "Memories", icon: image}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
