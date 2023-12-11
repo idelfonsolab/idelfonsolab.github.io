@@ -7,7 +7,7 @@ title: "Talks"
   
  - Evolution of AI and the challenge of developing robust solutions with expert knowledge - FEUP Chemical Engineering Days, 16/11/2023
 
- - Augmented Reality for Chemical Engineering Education - 14th European Congress of Chemical Engineering and 7th European Congress of Applied Biotechnology, Berlin, 19/09/2023
+ - [Augmented Reality for Chemical Engineering Education](/augmented.pptx) - 14th European Congress of Chemical Engineering and 7th European Congress of Applied Biotechnology, Berlin, 19/09/2023
       
  - [A New Perspective of Process System Engineering Addressing Modern Society Challenges](https://view.genial.ly/63773816de7aac0018f1e0ee) - IKP day, 28/5/2023
 
