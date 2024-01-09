@@ -11,6 +11,6 @@ title: "Research"
 -  **Bridging Scales:** This branch develops a new way to observe the system—a way to consider the phenomena and the process in the same frame. Thus, the main question here is: How to integrate the processes' fundamental, design and operating scales to optimize and control both simultaneously?
 - **Connecting Systems:** We live in a dynamic society that requires solutions for its challenges in time. How can the industry quickly adapt to face these challenges? This is the question that we want to solve at this branch.
 
-<br />  I see multidisciplinarity and collaboration with other fields and perspectives as essential to developing these research branches. In this way, I m collaborating with several universities, institutes and industries worldwide. Furthermore, I am also pursuing the promotion of innovative teaching activities to prepare future engineers to face the Industry 4.0/5.0 challenges.
+<br />  I see multidisciplinarity and collaboration with other fields and perspectives as essential to developing these research branches. In this way, I'm collaborating with several universities, institutes and industries worldwide. Furthermore, I am also pursuing the promotion of innovative teaching activities to prepare future engineers to face the Industry 4.0/5.0 challenges.
 
 <!-- Add a picture here?. -->
