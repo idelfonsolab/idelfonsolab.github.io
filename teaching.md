@@ -7,7 +7,7 @@ layout: page
 
   - Introduction to Separation Processes; 2022 NTNU - Department of Chemical Engineering - Associate Professor
 
-  - Strategies of Processes Optimization; 2021 University of Minho, School of Engineering - Department of Chemical and Biological  Engineering - Invited Assistant Professo
+  - Strategies of Processes Optimization; 2021 University of Minho, School of Engineering - Department of Chemical and Biological  Engineering - Invited Assistant Professor
 
   - Dynamics and Processes Control; 2021 University of Minho, School of Engineering - Department of Chemical and Biological  Engineering - Invited Assistant Professor
 
