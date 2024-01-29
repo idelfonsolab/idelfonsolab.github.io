@@ -24,10 +24,18 @@ title: "Projects"
    
  - **2021 - Current**: MIT-Portuguese Foundation for Science and Technology. A novel Cyber-physical prototype for on-demand perfume optimal design and production. **Supervisor**.
  
- - **2021**: Portuguese Foundation for Science and Technology - Individual call to scientific stimulus. A disruptive Cyber-Physical System-oriented autonomous chemical plant: a virtualizable, cooperative, self-manageable, and green approach. 
+ - **2021**: Portuguese Foundation for Science and Technology - Individual call to scientific stimulus. A disruptive Cyber-Physical System-oriented autonomous chemical plant: a virtualizable, cooperative, self-manageable, and green approach. **PI**.
    
  - **2018 - 2022**: Korea Research Institute of Chemical Technology. Development of package process of reaction and separation in refinery and petrochemical industry. **Team member**.
    
  - **2018 - 2021**: Portuguese Foundation for Science and Technology. Gas simulated moving bed technology for methane and nitrogen separation. **Team member**.
+
+ - **2017 - 2018**: Tekniikan Edistamissaatio (Finland). Artificial Intelligence solutions and control of Simulated Moving Bed Reactor units for production of a green solvent. **PI**.
  
- - **2012 - 2016**: Braskem/UFBA. Modeling and control for polyethylene production reactors. **PI**
+ - **2016 - 2017**: CIMO Fellowships, Government of Finland. Optimization of Simulated Moving Bed Units units for production of a green solvent. **PI**.
+
+ - **2014 - 2016**: UFBA. Development of virtual analyzers based on neural networks for predicting polymer properties. **PI**.
+
+ - **2014 - 2016**: UFBA. Development of a methodology for metrological quality and quality management of UFBA's experimental laboratories. **PI**.
+ 
+ - **2012 - 2016**: Braskem/UFBA. Modeling and control for polyethylene production reactors. **PI**.
